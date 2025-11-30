@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Yazi
+Comment=Blazing fast terminal file manager written in Rust, based on async I/O
+Exec=alacritty -e yazi
+Terminal=false
+Type=Application
+Categories=Utility;FileManager;
+Icon=/home/silver/.local/share/icons/yazi.webp
+

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Neovim
+Comment=Edit text files with Neovim
+Exec=alacritty -e /usr/local/bin/nvim %F
+Terminal=false
+Type=Application
+Icon=/home/silver/.local/share/icons/neovim.png
+Categories=Utility;TextEditor;
+

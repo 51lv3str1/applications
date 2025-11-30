@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=AWS VPN Client
+Comment=AWS VPN Client
+Exec=env GTK_THEME=Adwaita:dark /opt/awsvpnclient/AWS\ VPN\ Client %u
+Path=/opt/awsvpnclient
+Icon=/opt/awsvpnclient/Resources/acvc-64.png
+Terminal=false
+Categories=Network;VPN;
+Keywords=vpn;aws;
+StartupWMClass=AWS VPN Client
+
