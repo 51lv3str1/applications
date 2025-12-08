@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=nsxiv
-Exec=nsxiv %f
-Type=Application
-MimeType=image/png;image/jpeg;image/gif;image/webp;image/svg+xml;
-NoDisplay=true
