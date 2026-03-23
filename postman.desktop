@@ -1,9 +1,8 @@
 [Desktop Entry]
+Encoding=UTF-8
 Name=Postman
-Comment=API Development Environment
-Exec=/opt/Postman/Postman
+Exec=/opt/Postman/app/Postman %U
 Icon=/opt/Postman/app/resources/app/assets/icon.png
 Terminal=false
 Type=Application
-Categories=Development;Network;
-StartupWMClass=Postman
+Categories=Development;
